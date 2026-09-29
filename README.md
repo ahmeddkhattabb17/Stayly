@@ -1,4 +1,4 @@
-# Stayly 🏨
+# Stayly
 
 A modern hotel booking frontend for discovering hotels, comparing stays, making reservations, and managing hotel operations.
 
@@ -6,7 +6,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 
 ## Core Features
 
-### 🏠 Hotel Discovery
+### Hotel Discovery
 - Destination search
 - Featured hotels
 - Popular destinations
@@ -14,7 +14,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Hotel cards
 - Responsive browsing experience
 
-### 🔎 Hotel Search & Filters
+### Hotel Search & Filters
 - Destination
 - Check-in date
 - Check-out date
@@ -30,7 +30,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Multiple filters
 - Clear/reset filters
 
-### 🏨 Hotel Details
+### Hotel Details
 - Hotel image gallery
 - Hotel description
 - Location
@@ -45,7 +45,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Price per night
 - Availability
 
-### 🛏️ Room & Availability
+### Room & Availability
 - Multiple room types
 - Room capacity
 - Room pricing
@@ -55,7 +55,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Dynamic availability
 - Prevent overbooking
 
-### 📅 Booking Flow
+### Booking Flow
 1. Search destination
 2. Select dates
 3. Choose guests
@@ -67,7 +67,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 9. Confirm reservation
 10. Receive confirmation
 
-### 👤 Guest Accounts
+### Guest Accounts
 - Sign up / sign in
 - Profile management
 - Upcoming bookings
@@ -76,13 +76,13 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Favorites
 - Account settings
 
-### ❤️ Favorites
+### Favorites
 - Save hotels
 - Remove saved hotels
 - Favorites page
 - Persistent favorites for authenticated users
 
-### ⭐ Reviews & Ratings
+### Reviews & Ratings
 - Review completed stays
 - Star ratings
 - Written reviews
@@ -90,7 +90,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Review history
 - Review validation
 
-### 🧾 Reservations
+### Reservations
 - Booking confirmation
 - Reservation details
 - Guest information
@@ -101,7 +101,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Cancellation flow
 - Reservation history
 
-### 🏢 Hotel Manager Dashboard
+### Hotel Manager Dashboard
 - Dashboard overview
 - Manage hotels
 - Add/edit/delete properties
@@ -115,7 +115,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Revenue overview
 - Occupancy statistics
 
-### 💰 Pricing & Availability
+### Pricing & Availability
 - Base room pricing
 - Date-based pricing
 - Seasonal pricing
@@ -124,14 +124,14 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Price overrides
 - Minimum-stay rules
 
-### 🔔 Notifications
+### Notifications
 - Booking confirmation
 - Booking cancellation
 - Reservation updates
 - Check-in reminders
 - Hotel manager notifications
 
-### 🔐 Roles & Security
+### Roles & Security
 - Guest role
 - Hotel manager role
 - Admin role
@@ -141,7 +141,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Input validation
 - Secure authentication
 
-### 🛡️ Admin Management
+### Admin Management
 - Manage users
 - Manage hotels
 - Manage rooms
@@ -150,7 +150,7 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Platform analytics
 - Basic platform settings
 
-### ✨ UX
+### UX
 - Responsive design
 - Mobile-first booking experience
 - Loading states
@@ -162,7 +162,6 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Clear booking status
 
 ## Frontend Stack
-
 - Next.js
 - React
 - TypeScript
@@ -175,4 +174,4 @@ Stayly is intended to demonstrate production-style frontend development through 
 
 ## Status
 
-🚧 In development
+In development
