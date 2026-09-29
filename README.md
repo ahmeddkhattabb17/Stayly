@@ -1,8 +1,8 @@
 # Stayly 🏨
 
-A modern full-stack hotel booking platform for discovering hotels, comparing stays, making reservations, and managing hotel operations.
+A modern hotel booking frontend for discovering hotels, comparing stays, making reservations, and managing hotel operations.
 
-Stayly is designed as a realistic travel product with a complete booking flow and separate experiences for guests and hotel managers.
+Stayly is designed as a realistic travel product with a complete booking flow and separate guest and property-management interface experiences.
 
 ## Core Features
 
@@ -161,20 +161,17 @@ Stayly is designed as a realistic travel product with a complete booking flow an
 - Accessible forms
 - Clear booking status
 
-## Planned Stack
+## Frontend Stack
 
 - Next.js
+- React
 - TypeScript
-- PostgreSQL
-- Prisma or Drizzle ORM
-- Authentication
 - Tailwind CSS
-- API routes / Server Actions
-- Cloud image storage
+- Responsive Web Design
 
 ## Project Goal
 
-Stayly is intended to demonstrate production-style frontend and backend development through a complete travel booking experience, including search, availability, reservations, hotel management, and role-based workflows.
+Stayly is intended to demonstrate production-style frontend development through a complete travel booking experience, including search, availability, reservations, hotel management, and role-based workflows.
 
 ## Status
 
